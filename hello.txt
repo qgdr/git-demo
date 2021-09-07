@@ -8,3 +8,4 @@ hello Git! I'm learning!
 hello Git! I'm learning!
 hello Git! I'm learning!
 this is hot-fix file
+hot-fix test
