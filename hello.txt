@@ -6,5 +6,5 @@ hello Git! I'm learning!
 hello Git! I'm learning!
 hello Git! I'm learning!
 hello Git! I'm learning!
-hello Git! I'm learning!
+hello Git! I'm learning! master test
 this is hot-fix file
